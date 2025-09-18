@@ -1,2 +1,6 @@
 Start of notes
+<<<<<<< HEAD
 Change from main
+=======
+Change from branch
+>>>>>>> conflict-branch
